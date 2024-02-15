@@ -1,5 +1,7 @@
+-- create database in your system with create ( create database <database_name>)
 CREATE DATABASE Project_S;
 
+-- use created database with use keyword (use <database_name>)
 USE Project_S;
 
 -- import the csv file  
